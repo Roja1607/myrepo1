@@ -1,0 +1,6 @@
+2myvar = "John"
+my-var = "John"
+my var = "John"
+x = 1    # int
+y = 2.8  # float
+z = 1j   # complex
