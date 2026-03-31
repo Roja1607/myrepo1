@@ -1,0 +1,6 @@
+git merge branch1 : remove it
+git diff file1
+vim file1
+git add 
+git commit -m "final commits"
+NOTE: Don't give file name on commit
